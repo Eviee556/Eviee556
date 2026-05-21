@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I’m Charlize! 👋
+3D Modeler • Computer Science Student • Aspiring Game Developer
 
-<!--
-**Eviee556/Eviee556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I am a professional 3D Generalist working in 3D art for games and cinematics while studying Computer Science. I combine artistic craft with technical development to create assets, materials, and animations that integrate directly into real-time engines. I am actively learning C++ with Unreal Engine 5 to transition into gameplay and systems development for games.
 
-Here are some ideas to get you started:
+Core Skills and Tools 🔨
+3D and 2D Pipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Blender; Substance Painter; Substance 3D Designer; RizomUV; Marmoset Toolbag 5; Cascadeur; Retopoflow 4; Fibershop; Metahuman pipeline
+
+2D, Compositing and Post
+
+Affinity Designer; Clip Studio; Darktable
+
+Real-Time and Rendering
+
+Unreal Engine 5; Marmoset Toolbag 5
+
+Programming and Development
+
+C++ (including C++ for Unreal Engine)
+
+HTML, CSS, JavaScript, PHP, jQuery
+
+Other strengths
+
+Material authoring and procedural textures
+
+Retopology and UV workflow
+
+Animation for games and cinematic sequences
+
+Video editing and image composition
