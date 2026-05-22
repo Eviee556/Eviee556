@@ -1,7 +1,7 @@
 
 
  <p align="center">
-  <img src="images/screamexe.png" width="600" alt="Banner">
+  <img src="images/screamexe2.png" width="600" alt="Banner">
 </p>
 
 
