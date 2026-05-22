@@ -25,43 +25,43 @@ Core Skills and Tools 🔨
     </td>
     <td align="center">
       <img src="images/2.png" width="120" height="120"><br>
-      FiberShop
+      Casceduer
     </td>
     <td align="center">
       <img src="images/3.png" width="120" height="120"><br>
-      Affinity Designer
+      FiberShop
     </td>
     <td align="center">
       <img src="images/4.png" width="120" height="120"><br>
-      Clip Studio Paint
+      Affinity Designer
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/5.png" width="120" height="120"><br>
-      VS Code
+      Clip Studio Paint
     </td>
     <td align="center">
       <img src="images/6.png" width="120" height="120"><br>
-      RizomUV
+      Visual Studio Code
     </td>
     <td align="center">
       <img src="images/7.png" width="120" height="120"><br>
-      Substance Painter
+      Marmoset Toolbag 5
     </td>
     <td align="center">
       <img src="images/8.png" width="120" height="120"><br>
-      Substance 3D Designer
+      RizomUV
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/9.png" width="120" height="120"><br>
-      Unreal Engine
+      Substance Painter
     </td>
     <td align="center">
       <img src="images/10.png" width="120" height="120"><br>
-      Marmoset Toolbag
+      Substance 3D Designer
     </td>
     <td align="center">
       <img src="images/11.png" width="120" height="120"><br>
