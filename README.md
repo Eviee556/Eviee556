@@ -22,17 +22,17 @@ Core Skills and Tools 🔨
 
 ## 🛠️ Tools I Use
 <p align="center">
-  <img src="images/logos/1.png" alt="Logo 1" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/2.png" alt="Logo 2" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/3.png" alt="Logo 3" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/4.png" alt="Logo 4" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/5.png" alt="Logo 5" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/6.png" alt="Logo 6" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/7.png" alt="Logo 7" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/8.png" alt="Logo 8" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/9.png" alt="Logo 9" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/10.png" alt="Logo 10" width="100" height="100" style="margin: 10px;">
-  <img src="images/logos/11.png" alt="Logo 11" width="100" height="100" style="margin: 10px;">
+  <img src="images/1.png" alt="Logo 1" width="100" height="100" style="margin: 10px;">
+  <img src="images/2.png" alt="Logo 2" width="100" height="100" style="margin: 10px;">
+  <img src="images/3.png" alt="Logo 3" width="100" height="100" style="margin: 10px;">
+  <img src="images/4.png" alt="Logo 4" width="100" height="100" style="margin: 10px;">
+  <img src="images/5.png" alt="Logo 5" width="100" height="100" style="margin: 10px;">
+  <img src="images/6.png" alt="Logo 6" width="100" height="100" style="margin: 10px;">
+  <img src="images/7.png" alt="Logo 7" width="100" height="100" style="margin: 10px;">
+  <img src="images/8.png" alt="Logo 8" width="100" height="100" style="margin: 10px;">
+  <img src="images/9.png" alt="Logo 9" width="100" height="100" style="margin: 10px;">
+  <img src="images/10.png" alt="Logo 10" width="100" height="100" style="margin: 10px;">
+  <img src="images/11.png" alt="Logo 11" width="100" height="100" style="margin: 10px;">
 </p>
 
 
