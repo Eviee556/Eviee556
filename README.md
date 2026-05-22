@@ -1,6 +1,6 @@
 
 
-  h1>
+  <h1>
   <img src=""E:\GithubEviee556\Github_RepositoryClone\Eviee556\images\screamexe.png"" width="150" alt="Banner">
   </h1>
 
