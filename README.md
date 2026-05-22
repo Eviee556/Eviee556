@@ -3,7 +3,7 @@
 <h1>Hi, I’m Charlize! 👋
 </h1>
 
-About Me
+<h2>About Me</h2>
 <p>
 🎨 3D Artist & Modeler** | 💻 **Computer Science Student** | 🎮 **Aspiring Game Developer
 
