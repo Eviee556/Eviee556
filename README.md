@@ -1,12 +1,8 @@
 
 
- <p align="center">
-  <img src="images/screamexe2.png"  width="1000" height="600";">
-</p>
-
-
-Hi, I’m Charlize! 👋
+<h1>Hi, I’m Charlize! 👋
 3D Modeler • Computer Science Student • Aspiring Game Developer
+</h1>
 
 About Me
 <p>
@@ -35,6 +31,11 @@ Core Skills and Tools 🔨
   <img src="images/11.png" alt="Logo 11" width="100" height="100" style="margin: 10px;">
 </p>
 
+## 🎨 My Work 
+
+ <p align="center">
+  <img src="images/screamexe2.png"  width="1000" height="920";">
+</p>
 
 
 
