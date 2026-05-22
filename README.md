@@ -1,7 +1,7 @@
 
 
  <p align="center">
-  <img src="images/screamexe2.png"  width="500" height="600";">
+  <img src="images/screamexe2.png"  width="1000" height="600";">
 </p>
 
 
