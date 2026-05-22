@@ -34,6 +34,18 @@ Core Skills and Tools 🔨
 
  <p align="center">
   <img src="images/screamexe2.png"  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
+  <img src="                     "  width="1000" height="920";">
 </p>
 
 
