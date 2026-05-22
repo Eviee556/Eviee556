@@ -7,28 +7,33 @@ I am a professional 3D Generalist working in 3D art for games and cinematics whi
 Core Skills and Tools 🔨
 3D and 2D Pipeline
 
-Blender; Substance Painter; Substance 3D Designer; RizomUV; Marmoset Toolbag 5; Cascadeur; Retopoflow 4; Fibershop; Metahuman pipeline
+# Hi, I'm Charlize 👋
 
-2D, Compositing and Post
+  <p align="center">
+  <img src=""E:\GithubEviee556\Github_RepositoryClone\Eviee556\images\screamexe.png"" width="600" alt="Banner">
+</p>
 
-Affinity Designer; Clip Studio; Darktable
+</p>
 
-Real-Time and Rendering
+🎨 **3D Artist & Modeler** | 💻 **Computer Science Student** | 🎮 **Aspiring Game Developer**
 
-Unreal Engine 5; Marmoset Toolbag 5
+---
 
-Programming and Development
+## 🛠️ Tools I Use
+<p align="center">
+<p align="center">
+  <img src="image/logos/1.png" alt="Logo 1" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/2.png" alt="Logo 2" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/3.png" alt="Logo 3" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/4.png" alt="Logo 4" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/5.png" alt="Logo 5" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/6.png" alt="Logo 6" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/7.png" alt="Logo 7" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/8.png" alt="Logo 8" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/9.png" alt="Logo 9" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/10.png" alt="Logo 10" width="100" height="100" style="margin: 10px;">
+  <img src="image/logos/11.png" alt="Logo 11" width="100" height="100" style="margin: 10px;">
+</p>
 
-C++ (including C++ for Unreal Engine)
 
-HTML, CSS, JavaScript, PHP, jQuery
 
-Other strengths
-
-Material authoring and procedural textures
-
-Retopology and UV workflow
-
-Animation for games and cinematic sequences
-
-Video editing and image composition
