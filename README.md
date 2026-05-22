@@ -18,7 +18,9 @@ Core Skills and Tools 🔨
 ## 🛠️ Tools I Use
 <p align="center">
   <img src="images/1.png" alt="Logo 1" width="250" height="250" style="margin: 10px;">
+  Blender
   <img src="images/2.png" alt="Logo 2" width="100" height="100" style="margin: 10px;">
+  
   <img src="images/3.png" alt="Logo 3" width="100" height="100" style="margin: 10px;">
   <img src="images/4.png" alt="Logo 4" width="100" height="100" style="margin: 10px;">
   <img src="images/5.png" alt="Logo 5" width="100" height="100" style="margin: 10px;">
