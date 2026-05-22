@@ -1,6 +1,6 @@
 
 
-  <p align="center">
+  <p>
   <img src=""E:\GithubEviee556\Github_RepositoryClone\Eviee556\images\screamexe.png"" width="600" alt="Banner">
 </p>
 
@@ -20,8 +20,7 @@ Core Skills and Tools 🔨
 ---
 
 ## 🛠️ Tools I Use
-<p align="center">
-<p align="center">
+<p>
   <img src="image/logos/1.png" alt="Logo 1" width="100" height="100" style="margin: 10px;">
   <img src="image/logos/2.png" alt="Logo 2" width="100" height="100" style="margin: 10px;">
   <img src="image/logos/3.png" alt="Logo 3" width="100" height="100" style="margin: 10px;">
