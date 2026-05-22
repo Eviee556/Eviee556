@@ -67,6 +67,13 @@ Core Skills and Tools 🔨
       <img src="images/11.png" width="120" height="120"><br>
       Unreal Engine
     </td>
+    <!-- 
+        </td>
+    <td align="center">
+      <img src="images/(Photo Name).png" width="120" height="120"><br>
+      (Add Caption)
+    </td>
+    -->
   </tr>
 </table>
 
