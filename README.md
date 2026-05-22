@@ -1,8 +1,9 @@
 
 
-  <h1>
-  <img src=""E:\GithubEviee556\Github_RepositoryClone\Eviee556\images\screamexe.png"" width="150" alt="Banner">
-  </h1>
+ <p align="center">
+  <img src="images/screamexe.png" width="600" alt="Banner">
+</p>
+
 
 Hi, I’m Charlize! 👋
 3D Modeler • Computer Science Student • Aspiring Game Developer
