@@ -1,7 +1,6 @@
 
 
 <h1>Hi, I’m Charlize! 👋
-3D Modeler • Computer Science Student • Aspiring Game Developer
 </h1>
 
 About Me
