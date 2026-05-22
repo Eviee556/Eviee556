@@ -1,4 +1,9 @@
 
+
+  <p align="center">
+  <img src=""E:\GithubEviee556\Github_RepositoryClone\Eviee556\images\screamexe.png"" width="600" alt="Banner">
+</p>
+
 Hi, I’m Charlize! 👋
 3D Modeler • Computer Science Student • Aspiring Game Developer
 
@@ -7,13 +12,6 @@ I am a professional 3D Generalist working in 3D art for games and cinematics whi
 
 Core Skills and Tools 🔨
 3D and 2D Pipeline
-
-# Hi, I'm Charlize 👋
-
-  <p align="center">
-  <img src=""E:\GithubEviee556\Github_RepositoryClone\Eviee556\images\screamexe.png"" width="600" alt="Banner">
-</p>
-
 </p>
 
 🎨 **3D Artist & Modeler** | 💻 **Computer Science Student** | 🎮 **Aspiring Game Developer**
