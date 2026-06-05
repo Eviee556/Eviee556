@@ -10,6 +10,7 @@ I'm very passionate on taking ambitious projects and doing thing's from scratch 
 Currently doing a collabortation with AD ASTRA.
   
 {Open for Work}
+<br>
 [Open for Comissions}
 
 -Programming
