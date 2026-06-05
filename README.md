@@ -5,14 +5,33 @@
 
 <h2>About Me</h2>
 <p>
-🎨 3D Artist & Modeler | 💻 Computer Science Student | 🎮 Aspiring Game Developer
+Hey there! my name is Charlize Pauli, I'm a Computer Science student at the University of Veiga de Almeida (UVA), and I am also a Game Dev.
+I'm very passionate on taking ambitious projects and doing thing's from scratch till the very end.
+Currently doing a collabortation with AD ASTRA.
+  
+{Open for Work}
+[Open for Comissions}
 
-I am a professional 3D Generalist working in 3D art for games and cinematics while studying Computer Science. I combine artistic craft with technical development to create assets, materials, and animations that integrate directly into real-time engines. I am actively learning C++ with Unreal Engine 5 to transition into gameplay and systems development for games.
+-Programming
+CSS, HTML, Javascript, PHP, C++
 
-Core Skills and Tools 🔨
-3D and 2D Pipeline
-</p>
+-Game Dev
+2D , 3D Generalist, Tech Artist, Texture Artist, Game Dev, Illustrator, Image Compositor and Video Editor.
 
+
+
+I specialized in :
+
+2D Art : Affinity Designer/Photo (vector/raster) , Clip Studio Paint, Darktable.
+Vector , Rasterized High Fidelity Drawing, Concept Art,  Illustrations, Raw Photo Editing / Color Grading
+
+3D Generalist : High Poly Low Poly, Retopology, Animation, UV Seams, Haircards, Clothes
+Blender, CC5, Headshot 3, Metahuman DNA, Retopoflow, RizomUV, Marmoset Toolbag 5, Casceduer, Fibershop, SimplyCloth
+
+Unreal Engine : GAS , Animation Blueprint, Blend Spaces, Metahuman, Blueprints, Animation Sequence, Level Of Detail, IK/FK, PBR
+ABP, BS, Materials/Textures, Metahuman, LODs, Level Design, Blueprints, Animation Sequence, Inverse Kinematics , Forward Kinematics
+
+Texture Artist : Substance 3D Designer, Substance Painter
 ---
 
 ## 🛠️ Tools I Use
