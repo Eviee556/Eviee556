@@ -6,7 +6,8 @@
 <h2>About Me</h2>
 <p>
 Hey there! my name is Charlize Pauli, I'm a Computer Science student at the University of Veiga de Almeida (UVA), and I am also a Game Dev.
-I'm very passionate on taking ambitious projects and doing thing's from scratch till the very end.
+I'm very passionate in taking ambitious projects and doing thing's from scratch till the very end.
+Long term or short term projects are ideal.
 Currently doing a collabortation with AD ASTRA.
   
 {Open for Work}
@@ -14,9 +15,11 @@ Currently doing a collabortation with AD ASTRA.
 [Open for Comissions}
 
 -Programming
+<br>
 CSS, HTML, Javascript, PHP, C++
 
 -Game Dev
+<br>
 2D , 3D Generalist, Tech Artist, Texture Artist, Game Dev, Illustrator, Image Compositor and Video Editor.
 
 
@@ -33,6 +36,8 @@ Unreal Engine : GAS , Animation Blueprint, Blend Spaces, Metahuman, Blueprints, 
 ABP, BS, Materials/Textures, Metahuman, LODs, Level Design, Blueprints, Animation Sequence, Inverse Kinematics , Forward Kinematics
 
 Texture Artist : Substance 3D Designer, Substance Painter
+
+
 ---
 
 ## 🛠️ Tools I Use
