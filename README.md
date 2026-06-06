@@ -10,9 +10,9 @@ I'm very passionate in taking ambitious projects and doing thing's from scratch 
 Long term or short term projects are ideal.
 Currently doing a collabortation with AD ASTRA.
   
-{Open for Work}
+[Open for Work]
 <br>
-[Open for Comissions}
+[Open for Comissions]
 
 -Programming
 <br>
