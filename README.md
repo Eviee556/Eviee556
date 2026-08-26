@@ -18,11 +18,13 @@ I have 2 yearas worth of experience in the Games Industry.
 
 -Programming
 <br>
-CSS, HTML, Javascript, PHP, C++
+CSS, HTML, Javascript, Python, C++
+
+<h></h>
 
 -Game Dev
 <br>
-2D , 3D Generalist, Tech Artist, Texture Artist, Game Dev, Illustrator, Image Compositor and Video Editor.
+3D Generalist, Tech Artist, Game Dev,2D Illustrator, Image Compositor and Video Editor.
 
 
 
