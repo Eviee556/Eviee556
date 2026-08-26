@@ -18,7 +18,7 @@ I have 2 yearas worth of experience in the Games Industry.
 
 -Programming
 <br>
-CSS, HTML, Javascript, Python, C++
+C++, HTML, CSS, Javascript, Python
 
 <h></h>
 
@@ -28,18 +28,7 @@ CSS, HTML, Javascript, Python, C++
 
 
 
-I specialized in :
-
-2D Art : Affinity Designer/Photo (vector/raster) , Clip Studio Paint, Darktable.
-Vector , Rasterized High Fidelity Drawing, Concept Art,  Illustrations, Raw Photo Editing / Color Grading
-
-3D Generalist : High Poly Low Poly, Retopology, Animation, UV Seams, Haircards, Clothes
-Blender, CC5, Headshot 3, Metahuman DNA, Retopoflow, RizomUV, Marmoset Toolbag 5, Casceduer, Fibershop, SimplyCloth
-
-Unreal Engine : GAS , Animation Blueprint, Blend Spaces, Metahuman, Blueprints, Animation Sequence, Level Of Detail, IK/FK, PBR
-ABP, BS, Materials/Textures, Metahuman, LODs, Level Design, Blueprints, Animation Sequence, Inverse Kinematics , Forward Kinematics
-
-Texture Artist : Substance 3D Designer, Substance Painter
+##  My Specialties :
 
 
 ---
