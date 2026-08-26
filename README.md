@@ -96,6 +96,49 @@ Texture Artist : Substance 3D Designer, Substance Painter
       <img src="images/11.png" width="120" height="120"><br>
       Unreal Engine
     </td>
+              </td>          
+    <td align="center">
+      <img src="images/zbrush.png" width="120" height="120"><br>
+      Zbrush
+    </td>
+  <tr>
+           </td>
+    <td align="center">
+      <img src="images/MD.png" width="120" height="120"><br>
+      Marvelous Designer
+    </td>
+            </td>
+    <td align="center">
+      <img src="images/cc.png" width="120" height="120"><br>
+      Character Creator 5
+     </td>
+     </td>
+     <td align="center">
+      <img src="images/Sisir.png" width="120" height="120"><br>
+      Sisir
+     </td>
+             </td>
+    <td align="center">
+      <img src="images/(topogun3.png" width="120" height="120"><br>
+      Topogun 3
+    </td>
+    </tr>
+    <tr>
+            </td>
+    <td align="center">
+      <img src="images/3dsmax.png" width="120" height="120"><br>
+      3DSMax
+    </td>
+                  </td>
+    <td align="center">
+      <img src="images/Maya.png" width="120" height="120"><br>
+      Maya
+    </td>
+                      </td>
+    <td align="center">
+      <img src="images/photoshop.png" width="120" height="120"><br>
+      Photoshop
+    </td>
     <!-- 
         </td>
     <td align="center">
