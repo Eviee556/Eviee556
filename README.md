@@ -126,7 +126,7 @@ Texture Artist : Substance 3D Designer, Substance Painter
     <tr>
             </td>
     <td align="center">
-      <img src="images/3dsmax.png" width="120" height="120"><br>
+      <img src="images/3dsmax01.png" width="120" height="120"><br>
       3DSMax
     </td>
                   </td>
