@@ -43,8 +43,24 @@ Texture Artist : Substance 3D Designer, Substance Painter
 
 
 ---
+## Computer Science 
 
-## 🛠️ Tools I Use
+<table align="center">
+<tr>
+    <td allign="center">
+    <img src="images/CPP.png" width ="120" height = "120"><br>
+    C++
+    </td>
+    <td allign="center">
+    <img src="images/HTML.png" width ="120" height = "120"><br>
+    HTML
+    </td>
+        <td allign="center">
+    <img src="images/CSS.png" width ="120" height = "120"><br>
+    CSS
+    </td>
+
+## 🛠️ Tools I Use [Games & Cinematic]
 
 <table align="center">
   <tr>
