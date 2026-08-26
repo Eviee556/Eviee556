@@ -5,11 +5,11 @@
 
 <h2>About Me</h2>
 <p>
-Hey there! my name is Charlize Pauli, I'm a Computer Science student at the University of Veiga de Almeida (UVA), and I am also a Game Dev.
+Hey there! my name is Charlize Pauli, I'm a Computer Science student at the University of Veiga de Almeida (UVA) and I am also a Game Dev.
 I'm very passionate in taking ambitious projects and doing thing's from scratch till the very end.
 Long term or short term projects are ideal.
 
-I have 2 yearas worth of experience in the Games Industry.
+2+ yearas Experience in Games Industry.
   
 [Open for Work]
 <br>
