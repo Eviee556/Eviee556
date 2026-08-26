@@ -26,9 +26,6 @@ C++, HTML, CSS, Javascript, Python
 3D Generalist, Unreal Dev
 
 
-###  My Specialties :
-
-
 ---
 ## Computer Science 
 
