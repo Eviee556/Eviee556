@@ -157,6 +157,10 @@ C++, HTML, CSS, Javascript, Python
       Metahuman
     </td>
     
+
+  </tr>
+</table>
+
     <!-- 
         </td>
     <td align="center">
@@ -164,10 +168,6 @@ C++, HTML, CSS, Javascript, Python
       (Add Caption)
     </td>
     -->
-  </tr>
-</table>
-
-
 <!--## 🎨 My Work 
 
  <p align="center">
