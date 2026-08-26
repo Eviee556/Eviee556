@@ -161,7 +161,7 @@ C++, HTML, CSS, Javascript, Python
   </tr>
 </table>
 
-    <!-- 
+<!-- 
         </td>
     <td align="center">
       <img src="images/(Photo Name).png" width="120" height="120"><br>
