@@ -55,9 +55,7 @@ C++, HTML, CSS, Javascript, Python
     </td>
 
 <br>
----
 
-Game Dev
 
 <table align="center">
   <tr>
