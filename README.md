@@ -48,7 +48,7 @@ Texture Artist : Substance 3D Designer, Substance Painter
 <table align="center">
 <tr>
     <td allign="center">
-    <img src="images/CPP01.png" width ="120" height = "120"><br>
+    <img src="images/CPP01.png" width ="120" height = "150"><br>
     C++
     </td>
     <td allign="center">
