@@ -24,11 +24,10 @@ C++, HTML, CSS, Javascript, Python
 
 -Game Dev
 <br>
-3D Generalist, Tech Artist, Game Dev,2D Illustrator, Image Compositor and Video Editor.
+3D Generalist, Unreal Dev
 
 
-
-##  My Specialties :
+###  My Specialties :
 
 
 ---
