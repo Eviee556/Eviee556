@@ -64,6 +64,11 @@ Texture Artist : Substance 3D Designer, Substance Painter
     <img src="images/JS01.png" width ="120" height = "120"><br>
     Javascript
     </td>
+            </td>
+        <td allign="center">
+    <img src="images/Py.png" width ="120" height = "120"><br>
+    Python
+    </td>
 
 ## 🛠️ Tools I Use [Games & Cinematic]
 
