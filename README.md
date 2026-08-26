@@ -151,11 +151,12 @@ C++, HTML, CSS, Javascript, Python
       Photoshop
     </td>
 
-          </td>
+  </td>
     <td align="center">
       <img src="images/MH.png" width="120" height="120"><br>
       Metahuman
     </td>
+    
     <!-- 
         </td>
     <td align="center">
