@@ -25,6 +25,8 @@ C++, HTML, CSS, Javascript, Python
 <br>
 3D Generalist, Unreal Dev
 
+https://www.artstation.com/charchar96
+
 
 ---
 ## Computer Science 
