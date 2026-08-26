@@ -52,16 +52,16 @@ Texture Artist : Substance 3D Designer, Substance Painter
     C++
     </td>
     <td allign="center">
-    <img src="images/HTML.png" width ="120" height = "120"><br>
+    <img src="images/HTML01.png" width ="120" height = "120"><br>
     HTML
     </td>
         <td allign="center">
-    <img src="images/CSS.png" width ="120" height = "120"><br>
+    <img src="images/CSS01.png" width ="120" height = "120"><br>
     CSS
     </td>
         </td>
         <td allign="center">
-    <img src="images/JS.png" width ="120" height = "120"><br>
+    <img src="images/JS01.png" width ="120" height = "120"><br>
     Javascript
     </td>
 
