@@ -64,9 +64,9 @@ https://www.artstation.com/charchar96
       [Pending Release]
     </td>
     <br>
-
+</table></tr>
   
-Indie Game Dev
+## Indie Game Dev
 2+ yearas Experience in Games Industry.
 
 
@@ -169,10 +169,7 @@ Indie Game Dev
       <img src="images/MH.png" width="120" height="120"><br>
       Metahuman
     </td>
-    
-
-  </tr>
-</table>
+</table></tr>
 
 
 
