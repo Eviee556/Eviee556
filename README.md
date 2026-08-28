@@ -65,13 +65,13 @@ https://www.artstation.com/charchar96
 ## Projects
 <br>
 <table align="center">
-  <tr>
     <td align="center">
       <img src=" " width="120" height "120"><br>
       [Pending Release]
     </td>
     <br>
 ---
+  <br>
 Indie Game Dev
 2+ yearas Experience in Games Industry.
 
