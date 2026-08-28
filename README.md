@@ -27,7 +27,7 @@ C++, HTML, CSS, Javascript, Python
 https://www.artstation.com/charchar96
 
 
----
+
 ## Computer Science 
 
 <table align="center">
@@ -63,8 +63,8 @@ https://www.artstation.com/charchar96
       [Pending Release]
     </td>
     <br>
----
-  <br>
+
+  
 Indie Game Dev
 2+ yearas Experience in Games Industry.
 
