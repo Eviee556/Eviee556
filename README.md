@@ -54,7 +54,7 @@ https://www.artstation.com/charchar96
     <img src="images/Py.png" width ="120" height = "120"><br>
     Python
     </td>
-
+</table>tr>
 
 ## Projects Developed
 <table align="center">
