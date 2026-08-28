@@ -70,8 +70,9 @@ https://www.artstation.com/charchar96
       <img src=" " width="120" height "120"><br>
       [Pending Release]
     </td>
+    <br>
 ---
-## Indie Game Dev
+Indie Game Dev
 2+ yearas Experience in Games Industry.
 
 
