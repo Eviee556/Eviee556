@@ -55,15 +55,8 @@ https://www.artstation.com/charchar96
     Python
     </td>
 
-<br>
 
-
-
-
-<br>
----
-## Projects
-<br>
+  <br>
 <table align="center">
     <td align="center">
       <img src=" " width="120" height "120"><br>
