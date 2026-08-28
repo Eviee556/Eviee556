@@ -62,7 +62,7 @@ https://www.artstation.com/charchar96
 
 <br>
 ---
-## Projects
+# Projects
 
 <table align="center">
   <tr>
