@@ -5,10 +5,10 @@
 
 <h2>About Me</h2>
 <p>
-My name is Charlize Pauli. I'm a Computer Science student at the University of Veiga de Almeida (UVA), and I'm also a game developer. 
+My name is Charlize Pauli. I'm a Computer Science student at the University of Veiga de Almeida (UVA), and a game developer. 
 I'm very passionate about taking on ambitious projects and seeing them through from scratch to the very end. Long-term or short-term projects are ideal.
 
-2+ yearas Experience in Games Industry.
+
   
 [Open for Work]
 <br>
@@ -56,6 +56,23 @@ https://www.artstation.com/charchar96
     </td>
 
 <br>
+
+
+
+
+<br>
+
+## Projects
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src=" " width="120" height "120"><br>
+      [Pending Release]
+    </td>
+
+## Indie Game Dev
+2+ yearas Experience in Games Industry.
 
 
 <table align="center">
@@ -161,21 +178,6 @@ https://www.artstation.com/charchar96
 
   </tr>
 </table>
-
-<br>
-
-## Projects
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src=" " width="120" height "120"><br>
-      [Pending Release]
-    </td>
-
-
-
-
 
 
 
