@@ -56,8 +56,9 @@ https://www.artstation.com/charchar96
     </td>
 
 
-  <br>
+## Projects Developed
 <table align="center">
+  <tr>
     <td align="center">
       <img src=" " width="120" height "120"><br>
       [Pending Release]
