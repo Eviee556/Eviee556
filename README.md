@@ -61,7 +61,7 @@ https://www.artstation.com/charchar96
   <tr>
     <td align="center">
       <img src=" " width="120" height "120"><br>
-      [Pending Release]
+      [Vellum - PBR Editor]
     </td>
     <br>
 </table></tr>
