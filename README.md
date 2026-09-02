@@ -60,7 +60,7 @@ https://www.artstation.com/charchar96
 <table align="center">
   <tr>
     <td align="center">
-      <img src="icon.png" width="120" height "120"><br>
+      <img src="images/icon.png" width="120" height "120"><br>
       [Leorix]
     </td>
     <br>
