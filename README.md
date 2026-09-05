@@ -61,7 +61,7 @@ https://www.artstation.com/charchar96
   <tr>
     <td align="center">
       <img src="images/Leorix.jpg" width="120" height "120"><br>
-      [a link]( )
+      <!--[a link]( )-->
       Leorix [WIP]
     </td>
     <br>
