@@ -16,7 +16,7 @@ I'm very passionate about taking on ambitious projects and seeing them through f
 
 -Programming
 <br>
-C++, HTML, CSS, Javascript, Python
+C++, HTML, CSS, Javascript, Python, Rust, Three.Js
 
 <h></h>
 
@@ -65,7 +65,33 @@ https://www.artstation.com/charchar96
       Leorix [WIP]
     </td>
     <br>
-</table></tr>
+    </tr>
+    <tr>
+    <td align="center">
+      <img src="images/GeoStrands.jpg" width="120" height "120"><br>
+      <!--[a link]( )-->
+      GeoStrands 1.0
+    </td>
+        <tr>
+    <td align="center">
+      <img src="images/ScreenShot.jpg" width="120" height "120"><br>
+      <!--[a link]( )-->
+      ScreenShot 1.0
+    </td>
+    <br>    
+    </tr>
+    <br>
+      <tr>
+    <td align="center">
+      <img src="images/Study_Companion.jpg" width="120" height "120"><br>
+      <!--[a link]( )-->
+      Study Companion 1.0.1
+    </td>
+    <br>
+    </tr>
+    </tr>
+</table>
+
   
 ## Indie Game Dev
 2+ yearas Experience in Games Industry.
