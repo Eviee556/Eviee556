@@ -64,7 +64,6 @@ https://www.artstation.com/charchar96
       <!--[a link]( )-->
       Leorix [WIP]
     </td>
-    <br>
     </tr>
     <tr>
     <td align="center">
@@ -77,18 +76,14 @@ https://www.artstation.com/charchar96
       <img src="images/ScreenShot.jpg" width="120" height "120"><br>
       <!--[a link]( )-->
       ScreenShot 1.0
-    </td>
-    <br>    
+    </td>   
     </tr>
-    <br>
       <tr>
     <td align="center">
       <img src="images/Study_Companion.jpg" width="120" height "120"><br>
       <!--[a link]( )-->
       Study Companion 1.0.1
     </td>
-    <br>
-    </tr>
     </tr>
 </table>
 
