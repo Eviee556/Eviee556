@@ -32,26 +32,24 @@ https://www.artstation.com/charchar96
 
 <table align="center"><tr>
     <td allign="center">
-    <img src="images/CPP01.png" width ="120" height = "250"><br>
-    C++
+      <img src="images/CPP01.png" width ="120" height = "250"><br>
+        C++
     </td>
     <td allign="center">
-    <img src="images/HTML01.png" width ="120" height = "120"><br>
-    HTML
+      <img src="images/HTML01.png" width ="120" height = "120"><br>
+        HTML
     </td>
-        <td allign="center">
-    <img src="images/CSS01.png" width ="120" height = "120"><br>
-    CSS
+    <td allign="center">
+      <img src="images/CSS01.png" width ="120" height = "120"><br>
+        CSS
     </td>
-        </td>
-        <td allign="center">
-    <img src="images/JS01.png" width ="120" height = "120"><br>
-    Javascript
+    <td allign="center">
+      <img src="images/JS01.png" width ="120" height = "120"><br>
+        Javascript
     </td>
-            </td>
-        <td allign="center">
-    <img src="images/Py.png" width ="120" height = "120"><br>
-    Python
+    <td allign="center">
+      <img src="images/Py.png" width ="120" height = "120"><br>
+        Python
     </td>
 </table></tr>
 
@@ -60,24 +58,19 @@ https://www.artstation.com/charchar96
   <tr>
     <td align="center">
       <img src="images/Leorix.jpg" width="120" height "120"><br>
-      <!--[a link]( )-->
-      Leorix [WIP]
+            <!--[a link]( )-->
+          Leorix [WIP]
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <img src="images/GeoStrands.jpg" width="120" height "120"><br>
       <!--[a link]( )-->
       GeoStrands 1.0
     </td>
-        <tr>
     <td align="center">
       <img src="images/ScreenShot.jpg" width="120" height "120"><br>
       <!--[a link]( )-->
       ScreenShot 1.0
     </td>   
-    </tr>
-      <tr>
     <td align="center">
       <img src="images/Study_Companion.jpg" width="120" height "120"><br>
       <!--[a link]( )-->
