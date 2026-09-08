@@ -30,8 +30,7 @@ https://www.artstation.com/charchar96
 
 ## Computer Science 
 
-<table align="center">
-<tr>
+<table align="center"><tr>
     <td allign="center">
     <img src="images/CPP01.png" width ="120" height = "250"><br>
     C++
@@ -84,8 +83,7 @@ https://www.artstation.com/charchar96
       <!--[a link]( )-->
       Study Companion 1.0.1
     </td>
-    </tr>
-</table>
+</table></tr>
 
   
 ## Indie Game Dev
