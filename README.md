@@ -16,8 +16,8 @@ I'm very passionate about taking on ambitious projects and seeing them through f
 
 -Programming
 <br>
-C++, HTML, CSS, Javascript, Python, Rust, Three.Js
-
+C++, C#, HTML, CSS, Javascript, Python, Rust, Three.Js
+1 year of experience in IT.
 <h></h>
 
 -Game Dev
