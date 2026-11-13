@@ -84,7 +84,12 @@ If you like my work please consider supporting me so I can continue to make amaz
 [a link](https://ko-fi.com/eviee556)
   
 ## Indie Game Dev
-2+ yearas Experience in Games Industry.
+2+ years Experience in Games Industry.
+
+I have worked in the following games : 
+"Libertas" Ad Astra
+"Aetherlands" Splix Studio
+
 
 
 <table align="center">
