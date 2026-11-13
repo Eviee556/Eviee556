@@ -87,7 +87,9 @@ If you like my work please consider supporting me so I can continue to make amaz
 2+ years Experience in Games Industry.
 
 I have worked in the following games : 
+<br>
 "Libertas" Ad Astra
+<br>
 "Aetherlands" Splix Studio
 
 
