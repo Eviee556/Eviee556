@@ -13,7 +13,7 @@ Open for work : Freelance, Long-term or short-term Contracts.
   
 [Open for Work]
 <br>
-[Open for Comissions]
+[Open for Commissions]
 
 -Programming
 <br>
@@ -102,7 +102,7 @@ I have worked in the following games :
     </td>
     <td align="center">
       <img src="images/2.png" width="120" height="120"><br>
-      Casceduer
+      Cascadeur
     </td>
     <td align="center">
       <img src="images/3.png" width="120" height="120"><br>
