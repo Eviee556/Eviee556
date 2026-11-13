@@ -1,12 +1,13 @@
 
 
-<h1>Hi, I’m Charlize! 👋
+<h1>Hi, I’m Charlize! 
 </h1>
 
 <h2>About Me</h2>
 <p>
-My name is Charlize Pauli. I'm a Computer Science student at the University of Veiga de Almeida (UVA), and a game developer. 
-I'm very passionate about taking on ambitious projects and seeing them through from scratch to the very end. Long-term or short-term projects are ideal.
+My name is Charlize Pauli. I'm a Computer Science Graduate from the University of Veiga de Almeida (UVA),
+I focus in Software Development, Web Development and Game Development.
+Open for work : Freelance, Long-term or short-term Contracts.
 
 
   
