@@ -23,7 +23,7 @@ C, C++, C#, HTML, CSS, Javascript, Python, Three.Js
 
 -Game Dev
 <br>
-3D Generalist, Unreal Dev , Unity Dev , Texture Artist 
+3D Generalist, Unreal Dev , Unity Dev
 2 years of experience in the Games Industry.
 
 https://www.artstation.com/charchar96
