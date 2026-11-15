@@ -5,7 +5,7 @@
 
 <h2>About Me</h2>
 <p>
-My name is Charlize Pauli. I'm a Computer Science Graduate from the University of Veiga de Almeida (UVA),
+My name is Charlize Pauli. I'm a Computer Science Student from the University of Veiga de Almeida (UVA),
 I focus in Software Development, Web Development and Game Development.
 Open for work : Freelance, Long-term or short-term Contracts.
 
