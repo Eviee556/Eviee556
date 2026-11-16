@@ -34,11 +34,11 @@ https://www.artstation.com/charchar96
 
 <table align="center"><tr>
     <td allign="center">
-      <img src="images/C.png" width ="120" height = "120"><br>
+      <img src="images/tiles/C.png" width ="120" height = "120"><br>
         C
     </td>
     <td allign="center">
-      <img src="images/CPP01.png" width ="120" height = "250"><br>
+      <img src="images/tiles/CPP02.png" width ="120" height = "120"><br>
         C++
     </td>
     <td allign="center">
@@ -54,7 +54,7 @@ https://www.artstation.com/charchar96
         Javascript
     </td>
     <td allign="center">
-      <img src="images/Py.png" width ="120" height = "120"><br>
+      <img src="images/tiles/Py.png" width ="120" height = "120"><br>
         Python
     </td>
     <td allign="center">
@@ -67,24 +67,24 @@ https://www.artstation.com/charchar96
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Eviee556/Leorix"><img src="images/Leorix.jpg" width="120" height "120"><br>
+      <a href="https://github.com/Eviee556/Leorix"><img src="images/Leorix.jpg" width="120" height="69"><br>
           Leorix [WIP]</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Eviee556/GeoStrands"><img src="images/GeoStrands.jpg" width="120" height "120"><br>
+      <a href="https://github.com/Eviee556/GeoStrands"><img src="images/GeoStrands.jpg" width="120" height="69"><br>
       GeoStrands 1.0</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kittakin-Studios/LSD_Engine"><img src="images/LSD_Engine.jpg" width="120" height "120"><br>
+      <a href="https://github.com/Kittakin-Studios/LSD_Engine"><img src="images/LSD_Engine.jpg" width="120" height="69"><br>
       LSD_Engine</a>
     </td>
     <td align="center">
-      <img src="images/ScreenShot.jpg" width="120" height "120"><br>
+      <img src="images/ScreenShot.jpg" width="120" height="69"><br>
       <!--[a link]( )-->
       ScreenShot 1.0
     </td>   
     <td align="center">
-      <img src="images/Study_Companion.jpg" width="120" height "120"><br>
+      <img src="images/Study_Companion.jpg" width="120" height="69"><br>
       <!--[a link]( )-->
       Study Companion 1.0.1
     </td>
@@ -107,11 +107,11 @@ I have worked in the following games :
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/1.png" width="120" height="120"><br>
+      <img src="images/tiles/1.png" width="120" height="120"><br>
       Blender
     </td>
     <td align="center">
-      <img src="images/2.png" width="120" height="120"><br>
+      <img src="images/tiles/2.png" width="120" height="120"><br>
       Cascadeur
     </td>
     <td align="center">
@@ -137,7 +137,7 @@ I have worked in the following games :
       Marmoset Toolbag 5
     </td>
     <td align="center">
-      <img src="images/8.png" width="120" height="120"><br>
+      <img src="images/tiles/8.png" width="120" height="120"><br>
       RizomUV
     </td>
   </tr>
@@ -151,7 +151,7 @@ I have worked in the following games :
       Substance 3D Designer
     </td>
     <td align="center">
-      <img src="images/11.png" width="120" height="120"><br>
+      <img src="images/tiles/11.png" width="120" height="120"><br>
       Unreal Engine
     </td>
               </td>          
@@ -162,45 +162,45 @@ I have worked in the following games :
   <tr>
            </td>
     <td align="center">
-      <img src="images/MD.png" width="120" height="120"><br>
+      <img src="images/tiles/MD.png" width="120" height="120"><br>
       Marvelous Designer
     </td>
             </td>
     <td align="center">
-      <img src="images/cc.png" width="120" height="120"><br>
+      <img src="images/tiles/cc.png" width="120" height="120"><br>
       Character Creator 5
      </td>
      </td>
      <td align="center">
-      <img src="images/Sisir.png" width="120" height="120"><br>
+      <img src="images/tiles/Sisir.png" width="120" height="120"><br>
       Sisir
      </td>
              </td>
     <td align="center">
-      <img src="images/topogun3_02.png" width="120" height="120"><br>
+      <img src="images/tiles/topogun3_02.png" width="120" height="120"><br>
       Topogun 3
     </td>
     </tr>
     <tr>
             </td>
     <td align="center">
-      <img src="images/3dsmax01.png" width="120" height="120"><br>
+      <img src="images/tiles/3dsmax01.png" width="120" height="120"><br>
       3DSMax
     </td>
                   </td>
     <td align="center">
-      <img src="images/Maya01.png" width="120" height="120"><br>
+      <img src="images/tiles/Maya01.png" width="120" height="120"><br>
       Maya
     </td>
                       </td>
     <td align="center">
-      <img src="images/photoshop.png" width="120" height="120"><br>
+      <img src="images/tiles/photoshop.png" width="120" height="120"><br>
       Photoshop
     </td>
 
   </td>
     <td align="center">
-      <img src="images/MH.png" width="120" height="120"><br>
+      <img src="images/tiles/MH.png" width="120" height="120"><br>
       Metahuman
     </td>
 </table></tr>
