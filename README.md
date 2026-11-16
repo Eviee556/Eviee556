@@ -59,14 +59,15 @@ https://www.artstation.com/charchar96
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/Leorix.jpg" width="120" height "120"><br>
-            <!--[a link]( )-->
-          Leorix [WIP]
+      <a href="https://github.com/Eviee556/Leorix"><img src="images/Leorix.jpg" width="120" height "120"><br>
+          Leorix [WIP]</a>
     </td>
     <td align="center">
-      <img src="images/GeoStrands.jpg" width="120" height "120"><br>
-      <!--[a link]( )-->
-      GeoStrands 1.0
+      <a href="https://github.com/Eviee556/GeoStrands"><img src="images/GeoStrands.jpg" width="120" height "120"><br>
+      GeoStrands 1.0</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kittakin-Studios/LSD_Engine">LSD_Engine</a>
     </td>
     <td align="center">
       <img src="images/ScreenShot.jpg" width="120" height "120"><br>
