@@ -53,6 +53,10 @@ https://www.artstation.com/charchar96
       <img src="images/Py.png" width ="120" height = "120"><br>
         Python
     </td>
+    <td allign="center">
+      <img src="images/Lua.png" width ="120" height = "120"><br>
+        Lua
+    </td>
 </table></tr>
 
 ## Projects Developed
@@ -67,7 +71,8 @@ https://www.artstation.com/charchar96
       GeoStrands 1.0</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kittakin-Studios/LSD_Engine">LSD_Engine</a>
+      <a href="https://github.com/Kittakin-Studios/LSD_Engine"><img src="images/LSD_Engine.jpg" width="120" height "120"><br>
+      LSD_Engine</a>
     </td>
     <td align="center">
       <img src="images/ScreenShot.jpg" width="120" height "120"><br>
