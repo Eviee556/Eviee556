@@ -34,6 +34,10 @@ https://www.artstation.com/charchar96
 
 <table align="center"><tr>
     <td allign="center">
+      <img src="images/C.png" width ="120" height = "120"><br>
+        C
+    </td>
+    <td allign="center">
       <img src="images/CPP01.png" width ="120" height = "250"><br>
         C++
     </td>
