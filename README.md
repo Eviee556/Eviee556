@@ -18,6 +18,7 @@ Open for work : Freelance, Long-term or short-term Contracts.
 -Programming
 <br>
 C, C++, C#, HTML, CSS, Javascript, Python, Lua, Three.Js
+<br>
 2 year of experience in IT.
 <h></h>
 
